@@ -1,1 +1,2 @@
-# plugin-scss
+# ejs
+Kit10 plugin for .ejs pages
