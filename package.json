@@ -15,11 +15,9 @@
 	"engines": {
 		"node": ">=22.16"
 	},
-	"dependencies": {
-		"sass": "1.100.0"
-	},
 	"peerDependencies": {
-		"kit10": "file:../kit10/pack-1781306358170.tar.gz"
+		"kit10": "github:kit10hq/kit10#14d861137e3e982e86083a931cddd953532a43c5",
+		"sass": "1.100.0"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.4.10",
@@ -46,10 +44,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kit10hq/ejs.git"
+		"url": "git+https://github.com/kit10hq/plugin-scss.git"
 	},
 	"keywords": [
 		"kit10",
+		"kit10-plugin",
 		"scss",
 		"sass",
 		"css"
@@ -57,7 +56,7 @@
 	"author": "Daniil Kirichenko (https://twitter.com/kirickme)",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/kit10hq/ejs/issues"
+		"url": "https://github.com/kit10hq/plugin-scss/issues"
 	},
-	"homepage": "https://github.com/kit10hq/ejs#readme"
+	"homepage": "https://github.com/kit10hq/plugin-scss#readme"
 }
