@@ -16,7 +16,7 @@
 		"node": ">=22.16"
 	},
 	"peerDependencies": {
-		"kit10": "github:kit10hq/kit10#3b174296b24f9caeb2b81d2187544e3bd1fad21a",
+		"kit10": "github:kit10hq/kit10#7ea9935ca12958bc4c82b2d7378d18a3eaa91cae",
 		"sass": "1.100.0"
 	},
 	"devDependencies": {
